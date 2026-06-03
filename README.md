@@ -60,7 +60,7 @@ JobTrackr provides a centralized dashboard where users can:
 
 ## 📂 Repository
 
-👉 [GitHub Repository Link Here]
+👉 👉 [View on GitHub](https://github.com/Joiejoie1/jobtrackr)
 
 ---
 
@@ -69,7 +69,7 @@ JobTrackr provides a centralized dashboard where users can:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/jobtrackr.git
+git clone https://github.com/Joiejoie1/jobtrackr.git
 cd jobtrackr
 ```
 

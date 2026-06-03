@@ -54,7 +54,7 @@ JobTrackr provides a centralized dashboard where users can:
 
 ## 🌐 Live Demo
 
-👉 [Live Project Link Here]
+👉 [View Live App](https://jobtrackr-b1rcg9bv6-joy-e60b2f24.vercel.app)
 
 ---
 

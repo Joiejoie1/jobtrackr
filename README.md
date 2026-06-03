@@ -60,7 +60,7 @@ JobTrackr provides a centralized dashboard where users can:
 
 ## 📂 Repository
 
-👉 👉 [View on GitHub](https://github.com/Joiejoie1/jobtrackr)
+👉 [View on GitHub](https://github.com/Joiejoie1/jobtrackr)
 
 ---
 

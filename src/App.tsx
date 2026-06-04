@@ -50,7 +50,7 @@ function App() {
           </h2>
 
           {/* 🔢 Stats Bar */}
-          <div className="flex justify-between text-sm mb-4 px-2">
+          <div className="flex gap-6 text-sm mb-4 px-2">
             
             <span>
               Applied: {jobs.filter(j => j.status === "Applied").length}

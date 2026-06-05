@@ -99,7 +99,7 @@ npm run dev
 
 ## 🎥 Demo Video
 
-👉 [Watch Demo](https://www.loom.com/share/24ec9323f9b54385944c5f939dd2baa3)
+👉 [Watch Demo](https://vimeo.com/1198728135)
 
 ---
 
